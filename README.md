@@ -1,3 +1,6 @@
+# Learning React.js
+## I learned to create this beautiful movie app from JavaScript Matery
+
 # What is API
 
 Application programming interface is a software that allows two applications to interact with each other without any user intervention. It is a code that helps two different software to communicate and exchange data with each other
