@@ -5,9 +5,9 @@ import { useState } from "react";
 import SearchIcon from "./search.svg";
 import MovieCard from "./MovieCard";
 
-// c76fc7b0
 
-const API_URL = "https://www.omdbapi.com?apikey=c76fc7b0";
+
+const API_URL = "https://www.omdbapi.com?apikey=KEY";
 
 const movie1 = {
   Title: "Batman v Superman: Dawn of Justice",
