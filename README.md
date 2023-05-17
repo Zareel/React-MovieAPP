@@ -11,12 +11,12 @@ obdbapi.com will give you access to data about these data
 
 # 3. omdb API KEY
 
-c76fc7b0
+
 
 # 4. How we can call this api to get data
 
 create a static variable and
-const API_URL = "https://omdbapi.com?apikey=c76fc7b0"
+const API_URL = "https://omdbapi.com?apikey=KEY"
 Now we can use that from inside of our component to gather data. more specifically we want to fetch date from this api as soon as our component loads.
 for this we can use useEffect hook
 
